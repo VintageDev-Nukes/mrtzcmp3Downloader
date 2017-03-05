@@ -1,0 +1,21 @@
+C:\Users\Alvaro\AppData\Local\Temporary Projects\mrtzcmp3Downloader\bin\Debug\mrtzcmp3Downloader.exe.config
+C:\Users\Alvaro\AppData\Local\Temporary Projects\mrtzcmp3Downloader\bin\Debug\mrtzcmp3Downloader.exe
+C:\Users\Alvaro\AppData\Local\Temporary Projects\mrtzcmp3Downloader\bin\Debug\mrtzcmp3Downloader.pdb
+C:\Users\Alvaro\AppData\Local\Temporary Projects\mrtzcmp3Downloader\bin\Debug\mrtzcmp3Downloader.xml
+C:\Users\Alvaro\AppData\Local\Temporary Projects\mrtzcmp3Downloader\obj\Debug\mrtzcmp3Downloader.Form1.resources
+C:\Users\Alvaro\AppData\Local\Temporary Projects\mrtzcmp3Downloader\obj\Debug\mrtzcmp3Downloader.Resources.resources
+C:\Users\Alvaro\AppData\Local\Temporary Projects\mrtzcmp3Downloader\obj\Debug\mrtzcmp3Downloader.vbproj.GenerateResource.Cache
+C:\Users\Alvaro\AppData\Local\Temporary Projects\mrtzcmp3Downloader\obj\Debug\mrtzcmp3Downloader.exe
+C:\Users\Alvaro\AppData\Local\Temporary Projects\mrtzcmp3Downloader\obj\Debug\mrtzcmp3Downloader.xml
+C:\Users\Alvaro\AppData\Local\Temporary Projects\mrtzcmp3Downloader\obj\Debug\mrtzcmp3Downloader.pdb
+C:\Users\Alvaro\Documents\mrtzcmp3Downloader\mrtzcmp3Downloader\bin\Debug\mrtzcmp3Downloader.exe.config
+C:\Users\Alvaro\Documents\mrtzcmp3Downloader\mrtzcmp3Downloader\obj\Debug\mrtzcmp3Downloader.exe
+C:\Users\Alvaro\Documents\mrtzcmp3Downloader\mrtzcmp3Downloader\obj\Debug\mrtzcmp3Downloader.xml
+C:\Users\Alvaro\Documents\mrtzcmp3Downloader\mrtzcmp3Downloader\obj\Debug\mrtzcmp3Downloader.pdb
+C:\Users\Alvaro\Documents\mrtzcmp3Downloader\mrtzcmp3Downloader\bin\Debug\mrtzcmp3Downloader.exe
+C:\Users\Alvaro\Documents\mrtzcmp3Downloader\mrtzcmp3Downloader\bin\Debug\mrtzcmp3Downloader.pdb
+C:\Users\Alvaro\Documents\mrtzcmp3Downloader\mrtzcmp3Downloader\bin\Debug\mrtzcmp3Downloader.xml
+C:\Users\Alvaro\Documents\mrtzcmp3Downloader\mrtzcmp3Downloader\obj\Debug\mrtzcmp3Downloader.Resources.resources
+C:\Users\Alvaro\Documents\mrtzcmp3Downloader\mrtzcmp3Downloader\obj\Debug\mrtzcmp3Downloader.vbproj.GenerateResource.Cache
+C:\Users\Alvaro\Documents\mrtzcmp3Downloader\mrtzcmp3Downloader\obj\Debug\mrtzcmp3Downloader.vbprojResolveAssemblyReference.cache
+C:\Users\Alvaro\Documents\mrtzcmp3Downloader\mrtzcmp3Downloader\obj\Debug\mrtzcmp3Downloader.frmMain.resources

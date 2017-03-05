@@ -1,0 +1,10 @@
+C:\Users\Alvaro\Documents\mrtzcmp3Downloader\mrtzcmp3Downloader\bin\Release\mrtzcmp3Downloader.exe.config
+C:\Users\Alvaro\Documents\mrtzcmp3Downloader\mrtzcmp3Downloader\bin\Release\mrtzcmp3Downloader.exe
+C:\Users\Alvaro\Documents\mrtzcmp3Downloader\mrtzcmp3Downloader\bin\Release\mrtzcmp3Downloader.pdb
+C:\Users\Alvaro\Documents\mrtzcmp3Downloader\mrtzcmp3Downloader\bin\Release\mrtzcmp3Downloader.xml
+C:\Users\Alvaro\Documents\mrtzcmp3Downloader\mrtzcmp3Downloader\obj\Release\mrtzcmp3Downloader.Form1.resources
+C:\Users\Alvaro\Documents\mrtzcmp3Downloader\mrtzcmp3Downloader\obj\Release\mrtzcmp3Downloader.Resources.resources
+C:\Users\Alvaro\Documents\mrtzcmp3Downloader\mrtzcmp3Downloader\obj\Release\mrtzcmp3Downloader.vbproj.GenerateResource.Cache
+C:\Users\Alvaro\Documents\mrtzcmp3Downloader\mrtzcmp3Downloader\obj\Release\mrtzcmp3Downloader.exe
+C:\Users\Alvaro\Documents\mrtzcmp3Downloader\mrtzcmp3Downloader\obj\Release\mrtzcmp3Downloader.xml
+C:\Users\Alvaro\Documents\mrtzcmp3Downloader\mrtzcmp3Downloader\obj\Release\mrtzcmp3Downloader.pdb
